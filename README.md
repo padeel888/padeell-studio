@@ -1,7 +1,4 @@
 # Padeel Studio v2 — Bulk Audio Manager
-
-Paket **website pengganti/upgrade mandiri** untuk Padeel Studio. Dibuat berdasarkan halaman publik yang tersedia; **belum** dipasang langsung ke domain `*.chatgpt.site` karena proyek/source asli dan izin deploy tidak tersedia di percakapan ini.
-
 ## Fungsi
 - Antre hingga **150 audio per batch** (MP3, WAV, OGG, FLAC, maks. 50 MB input/file).
 - Editor massal dan individual: nama, volume, pitch, speed, trim, normalize loudness, dan fade, beserta preview dan ekspor MP3.
